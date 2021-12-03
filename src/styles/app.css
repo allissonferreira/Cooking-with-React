@@ -1,0 +1,14 @@
+@import-normalize;
+@import "recipe-list.css";
+
+*,
+*::before,
+*::after {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
